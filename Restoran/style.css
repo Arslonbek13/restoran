@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Nvabar */
+.header{
+    height: 800px;
+    width: 1519px;
+    border-radius: 0px;        
+    overflow: hidden;
+    position: relative;
+    background-image: url(/images/hero\ image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center; 
+}
+.main_left{
+    margin-top: 325px;
+}
+.sp{
+  color: #FF7400;
+}
+.color a{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;        
+}
+.color a:hover{
+    color: #FF7400;
+}
+.color i{
+    color: #FFFFFF;
+}
+.color i:hover{
+    color: #FF7400;
+}
+.color p{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+.color p:hover{
+    color: #FF7400;   
+}
+
+/* Header  */
+.dob h3{
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 57px;
+    color: #D67E35;
+}
+.dob h1{
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 92px;  
+    color: #D67E35;
+}
+.dob p{
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+}

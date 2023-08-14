@@ -1,0 +1,60 @@
+@media(max-width: 1399.98px){
+     
+}
+@media(max-width: 1199.98px){
+    
+}
+@media(max-width: 991.98px){
+.header{
+    width: 800px;
+    height: 800px;
+    background: url(images/hero\ image.png);
+    background-repeat: no-repeat;
+}
+.dob h3{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 34px;  
+}
+.dob h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 46px;
+}
+}
+@media(max-width: 767.98px){
+    .header{
+        width: 370px;
+        height: 800px;
+        background: url(images/hero\ image1.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        overflow: hidden;
+        position: relative;
+    }
+    .dob h3{
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 34px;  
+    }
+    .dob h1{
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        font-weight: 400;
+        font-size: 40px;
+        line-height: 46px;
+    }
+}
+@media(max-width: 575.98px){
+
+}
